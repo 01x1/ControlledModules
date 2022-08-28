@@ -3,7 +3,12 @@ local Games = {
         "http://www.roblox.com/asset/?id=10737197742",
         "Working",
         2788229376,
-    }
+    },
+    ["Hide & Seek"] = {
+        "http://www.roblox.com/asset/?id=10741337833",
+        "Working",
+        205224386,
+    },
 }
 
 return Games
