@@ -9,6 +9,11 @@ local Games = {
         "Working",
         205224386,
     },
+    ["Untitled Hood"] = {
+        "http://www.roblox.com/asset/?id=10753979802",
+        "Working",
+        9183932460,
+    },
 }
 
 return Games
