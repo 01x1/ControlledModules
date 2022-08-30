@@ -14,6 +14,11 @@ local Games = {
         "Working",
         9183932460,
     },
+    ["Natural Disaster"] = {
+        "http://www.roblox.com/asset/?id=10763724777",
+        "Working",
+        189707,
+    },
 }
 
 return Games
