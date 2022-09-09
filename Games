@@ -19,6 +19,11 @@ local Games = {
         "Working",
         189707,
     },
+    ["Jailbreak"] = {
+        "http://www.roblox.com/asset/?id=10859742015",
+        "Working",
+        606849621,
+    },
 }
 
 return Games
